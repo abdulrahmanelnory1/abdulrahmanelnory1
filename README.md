@@ -2,8 +2,6 @@
 
 I am a senior CSE student passionate about building scalable back-end systems. I enjoy tackling complex challenges and have a deep interest in problem-solving. Eager to learn and contribute to impactful software projects.
 
-<h3 align="center">A passionate Backend developer</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/abdulrahman-elnory-76997421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/abdulrahman-elnory-76997421b" height="30" width="40" /></a>
