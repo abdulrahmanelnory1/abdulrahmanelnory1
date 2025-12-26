@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Abdulrahman Elnory</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-I am a senior CSE student passionate about creating robust, and scalable backend solutions. Skilled in Data Structures, Algorithms, and Object-Oriented Programming (OOP). Experienced in developing RESTful APIs, applying SOLID Principles, and writing clean, efficient code. Committed to continuous learning and leveraging technology to solve real-world problems effectively.
+I am a senior CSE student passionate about creating robust, and scalable backend solutions. Skilled in Data Structures, Algorithms, and Object-Oriented Programming. Experienced in developing RESTful APIs, applying SOLID Principles, and writing clean code. Committed to continuous learning and leveraging technology to solve real-world problems effectively.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
