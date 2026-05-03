@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left">
-> Senior CSE student passionate about creating robust, scalable, and high-performance backend solutions. Experienced in developing RESTful APIs, applying SOLID Principles, and writing clean code, with hands-on backend internship experience building real-world applications. Committed to continuous learning and leveraging technology to solve real-world problems effectively.
+Senior CSE student passionate about creating robust, scalable, and high-performance backend solutions. Experienced in developing RESTful APIs, applying SOLID Principles, and writing clean code, with hands-on backend internship experience building real-world applications. Committed to continuous learning and leveraging technology to solve real-world problems effectively.
 </p>
 
 <h3 align="left">Connect with me:</h3>
