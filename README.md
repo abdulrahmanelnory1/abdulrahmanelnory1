@@ -57,7 +57,6 @@ Senior CSE student passionate about creating robust, scalable, and high-performa
 ## Open Source Contributions
 | Repository | Description | Type | PR | Status |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [Menoufia-University-Portal/Students-Services](https://github.com/Menoufia-University-Portal) | Expanded the StudyType model with 2 new properties and propagated changes across all related layers (Model, DTOs, Controller, Database migrations). | Feature/Enhancement | Private Repository | ![Merged](https://img.shields.io/badge/Merged-8957e5) |
 | [WildMeOrg/Wildbook](https://github.com/WildMeOrg/Wildbook) | Added client-side validation to prevent users from entering emojis in the Full Name field on the profile page `/myAccount.jsp`. | Feature/Enh, validation. | [PR #1325](https://github.com/WildMeOrg/Wildbook/pull/1325) | ![Merged](https://img.shields.io/badge/Merged-8957e5) |
 | [WildMeOrg/Wildbook](https://github.com/WildMeOrg/Wildbook/tree/ncaquariums) | Remove outdated adoption features from SAS homepage and unpublish adoption pages | Maintenance/Feature Removal | [PR #1347](https://github.com/WildMeOrg/Wildbook/pull/1347) | ![Merged](https://img.shields.io/badge/Merged-8957e5) |
 
